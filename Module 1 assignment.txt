@@ -1,0 +1,12 @@
+(1). Please break down the URLs listed below. (list-out Protocol, Domain,
+TLD) .
+https://www.flipkart.com/  : protocol :https , Domain : flipkart, TLD : .com
+https://www.irctc.co.in/  : protocol : https , Domain : irctc, TLD : .co.in
+https://www.allegro.pl/ : Protocol : https, Domain : Allegro, TLD : .pl
+https://www.johnlewispartnership.co.uk/  : protocol : https, Domain : johnlewispartnership, TLD : .co.uk
+https://www.uidai.gov.in/ : protocol :https , Domain : uidai, TLD : .gov.in
+
+
+(2). What is HTTPS/SSL Update? : An HTTPS/SSL update involves transitioning a website from HTTP (non-secure) to HTTPS (secure) by installing and configuring an SSL certificate. This process secures the connection between a user's browser and the website, protecting sensitive data transmitted online.
+
+(3). List out 10 famous browsers used worldwide : Ten popular web browsers used worldwide are Google Chrome, Safari, Microsoft Edge, Mozilla Firefox, Opera, Brave, Vivaldi, UC Browser, Samsung Internet, and Yandex Browser. 
